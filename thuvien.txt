@@ -1,0 +1,2 @@
+pip install xgboost
+pip install -U scikit-learn
